@@ -8,6 +8,8 @@ pylint = "*"
 
 [packages]
 django = "*"
+pylint-django = "*"
+django-filter = "*"
 
 [requires]
 python_version = "3.7"
