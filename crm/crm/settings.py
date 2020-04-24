@@ -128,3 +128,4 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static'),
 ]
 
+MEDIA_R00T = os.path.join(BASE_DIR, 'static/images')
